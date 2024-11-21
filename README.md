@@ -1,0 +1,1 @@
+Chatalytics AI is a conversational AI and analytics platform that uses NLP and machine learning to analyze chat interactions, provide real-time insights, and enhance user engagement while ensuring data privacy.
